@@ -1,12 +1,12 @@
-University: [ITMO University](https://itmo.ru/ru/)
-Faculty: [FICT](https://fict.itmo.ru)
-Course: [Cloud platforms as the basis of technology entrepreneurship](https://) ADD link
-Year: 2024/2025
-Group: U4225
-Author: Galkin Egor Olegovich
-Lab: Lab1
-Date of create: 21.10.2024
-Date of finished: 
+University: [ITMO University](https://itmo.ru/ru/)  
+Faculty: [FICT](https://fict.itmo.ru)  
+Course: [Cloud platforms as the basis of technology entrepreneurship](https://)  
+Year: 2024/2025  
+Group: U4225  
+Author: Galkin Egor Olegovich  
+Lab: Lab1  
+Date of create: 21.10.2024  
+Date of finished:  
 
 1) Создание сервисного аккаунта: Мы успешно создали сервисный аккаунт с ролью Storage Admin, что позволило получить доступ к ресурсам облачного хранилища. Правильное именование аккаунта, основанное на первой букве имени и фамилии с добавлением суффикса, обеспечило удобство в идентификации аккаунта.
 <image src="/Снимок экрана 2024-10-21 в 21.02.40.png">
@@ -22,5 +22,5 @@ Date of finished:
 4) Изменение прав доступа: При изменении роли сервисного аккаунта с Storage Admin на Compute Viewer мы столкнулись с проблемой доступа при повторной попытке копирования данных. Это подчеркнуло важность правильного назначения ролей и прав доступа в Google Cloud. С ролью Compute Viewer сервисный аккаунт не имеет необходимых разрешений для доступа к данным в бакете, что привело к ошибке при попытке выполнить операцию копирования.
 <image src="/Снимок экрана 2024-10-21 в 22.06.51.png">
 <image src="/Снимок экрана 2024-10-21 в 22.06.27 2.png">
-#H2 Вывод:
+**Вывод:**  
 Лабораторная работа позволила нам на практике понять, как управлять правами доступа и ресурсами в облачной среде Google Cloud. Мы убедились в том, что правильное назначение ролей и понимание их значимости критически важны для успешного выполнения операций с данными. Этот опыт будет полезен для дальнейшей работы с облачными сервисами и управления ресурсами в будущем.
