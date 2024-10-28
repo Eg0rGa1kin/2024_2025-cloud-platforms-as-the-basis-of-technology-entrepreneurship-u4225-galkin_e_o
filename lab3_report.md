@@ -24,9 +24,9 @@ Google Cloud Storage — это облачное хранилище данных
 <image src="/Снимок экрана 2024-10-28 в 19.12.53.png">
 <image src="/Снимок экрана 2024-10-28 в 19.14.03.png">
 5) Создание ссылок на файлы: Получение ссылок на загруженные изображения показало, как можно предоставить доступ к ресурсам:   
-  - https://storage.cloud.google.com/galkin/Test/55e5d1404851ac14f1dc8460962e33791c3ad6e04e507749742c78d59f44c3_640.jpg  
-  - https://storage.cloud.google.com/galkin/Test/57e5d6424d51a514f1dc8460962e33791c3ad6e04e50744074267bd2904cc7_640.jpg  
-  - https://storage.googleapis.com/galkin/Test/57e9d6414c53ad14f1dc8460962e33791c3ad6e04e507440742a7ed1974dc4_640.jpg  
+    https://storage.cloud.google.com/galkin/Test/55e5d1404851ac14f1dc8460962e33791c3ad6e04e507749742c78d59f44c3_640.jpg  
+    https://storage.cloud.google.com/galkin/Test/57e5d6424d51a514f1dc8460962e33791c3ad6e04e50744074267bd2904cc7_640.jpg  
+    https://storage.googleapis.com/galkin/Test/57e9d6414c53ad14f1dc8460962e33791c3ad6e04e507440742a7ed1974dc4_640.jpg  
 <image src="/Снимок экрана 2024-10-28 в 19.16.16.png">
 <image src="/Снимок экрана 2024-10-28 в 19.16.47.png">
 <image src="/Снимок экрана 2024-10-28 в 19.17.07.png">
