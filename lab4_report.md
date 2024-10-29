@@ -5,5 +5,5 @@ Year: 2024/2025
 Group: U4225  
 Author: Galkin Egor Olegovich  
 Lab: Lab4  
-Date of create:  
-Date of finished:  
+Date of create: 29.10.2024
+Date of finished: 01.11.2024  
